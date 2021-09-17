@@ -1,5 +1,0 @@
-1- é possivel existir um estrutura que seja tanto de repetição como de decisão também?
-2- como é uma ação não primitiva?
-3- como identificar um erro de sintese se eu fizer tudo diretamente pelo github?
-4- tipos de dados é a mesma coisa que tipos de memoria?
-5- equações são consideradas dados literais devido aos simbolos? ex 1+2=3
