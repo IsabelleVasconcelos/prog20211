@@ -1,0 +1,5 @@
+1- Se alguem está fazendo o projeto comigo mas não está fazendo pelo git diretamente, quando a pessoa fizer upload da pasta que ela baixou e modificou o git 
+identifica as alterações que a pessoa realizou dentro do outro programa?
+2- Como eu sei quem visualizou meu conteúdo forcado?
+3- Como eu faço pastas para organização dos conteúdos já realizados no git? Ex.: Pasta <aula 2> arquivos dentro dela <lista2; questoesaula2>
+4- Se eu realizar meu processo de trabalho fora do git quando eu fizer upload dos arquivos os indices do insights conseguirão ser atualizados?

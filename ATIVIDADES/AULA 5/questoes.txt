@@ -1,0 +1,17 @@
+1- Marque V ou F 
+I - As tuplas são sequencias de valores mutáveis ​​assim como as listas
+II - O dicionario traz a tradução de um comando já usado
+III - Tuplas usam parênteses enquanto listas usam colchetes
+IV - Lista é uma coleção ordenada
+
+  a) VFFV 
+  b) FVFV
+  c) VVFF
+X d) FFVV 
+
+
+2- Qual a diferença entre tupla e lista?
+a) uma lista é uma estrutura de dados homogêneos e Tuplas uma estrutura de dados heterogêneos. 
+b) tanto a lista como as tuplas são estruturas heterogeneas
+c) uma lista é uma estrutura de dados heterogêneos e Tuplas uma estrutura de dados homogêneos. 
+d) tanto a lista como as tuplas são estruturas homogêneas
