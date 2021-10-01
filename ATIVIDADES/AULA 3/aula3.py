@@ -35,13 +35,3 @@ print (7//2, 2**10, 7%2) #parte inteira, potenciação, resto da divisão
 
 soma = 0
 soma += 3; print(soma); soma= soma+3; print(soma)
-
-
-
-num = input ("digite um número:")
-print(num)
-
-login = input ("login:")
-senha = input ("senha:")
-
-print ("o usuário informado foi: %s, e a senha digitada foi: %s" %(login, senha))
