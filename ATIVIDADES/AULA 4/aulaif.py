@@ -2,12 +2,12 @@
 aula 4 - if e else, mostrando como usar
 '''
 
-variavelLogica = int(input('voce entendeu?')
+#variavelLogica = int(input('voce entendeu?')
 
-if variavelLogica:
-    print ("isabelle")
-    print ("isabelle")
+#if (variavelLogica)
+ #   print ("isabelle")
+#else 
 
-    print ("depois do if")
+ #   print ("depois do if")
 
-# assistir novamente a aula
+#assistir a aula novamente
